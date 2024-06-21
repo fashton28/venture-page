@@ -1,0 +1,40 @@
+body {
+    font-family: "Rubik", sans-serif;
+    background-color: #F9F6EE;
+    margin: auto 0;
+}
+
+.top-div {
+    background-color: black;
+    height: 60px;
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.left {
+    width: 50%;
+}
+
+.text {
+    margin-left: 50px;
+    
+}
+
+.text>h1{
+    font-size: 35px
+}
+
+
+
+
+
+.container {
+
+    display: flex;
+}
